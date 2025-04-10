@@ -1,0 +1,4 @@
+project:
+  title: "STA257_talks"
+  type: website
+  output-dir: docs
