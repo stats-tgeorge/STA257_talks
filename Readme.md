@@ -5,5 +5,5 @@ This repository contains talks and posters on the course *The History of Statist
 
 ## Iowa Chapter of ASA Annual Conference
 
-[Slides](IowaStatConf) for a 30 minute presentation, at Grinnell College on April 11th, 2025. 
+[Slides](https://stats-tgeorge.github.io/STA257_talks/IowaStatCon) for a 30 minute presentation, at Grinnell College on April 11th, 2025. 
 
