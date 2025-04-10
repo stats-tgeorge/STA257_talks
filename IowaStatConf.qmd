@@ -1,11 +1,205 @@
 ---
-title: "STA257_talks"
+title: "History of Statistics in the UK and Ireland"
+author: "Tyler George"
+institute: Cornell College
+format: 
+  revealjs:
+    theme: [default, styles.scss]
+    footer: "History of Stats in UK & IE, bit.ly/STATS_UKnIR"
+    incremental: true 
+    slide-number: true
+    preview-links: false
+    logo: imgs/cornelllogo.png
 ---
 
-## Quarto
+## Where did we go?
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Well, you guessed it....
 
 ```{r}
-1 + 1
+library(leaflet)
+
+leaflet() |>
+  addProviderTiles(providers$CartoDB.Positron) |> 
+  setView(lng = -5.5, lat = 54.5, zoom = 5)  # Roughly centers on UK/Ireland
 ```
+
+## Why learn the history of statistics in the UK and Ireland?
+
+-   Many of the statistics we use daily were first developed by people working in the UK and Ireland.
+
+. . .
+
+Today, I want to bring you on a brief version of our trip.
+
+## Prominent Figures
+
+-   Francis Galton (1822-1911)
+-   Karl Pearson (1857-1936)
+-   Ronald Fisher (1890-1962)
+-   Florence Nightingale (1820-1910)
+-   William Playfair (1759-1823)
+-   William Sealy Gosset (1876-1937)
+
+## Fun Fact
+
+-   Francis Galton was Charles Darwin's half-cousin.
+-   They worked together, and Darwin's work directly impacted Galton's work, specifically, his work, Hereditary Genius in 1869.
+
+## City 1: London, UK
+
+```{r}
+leaflet() |>
+  addProviderTiles(providers$CartoDB.Positron) |>
+  setView(lng = -0.1278, lat = 51.5074, zoom = 12) |>  # Zoomed into London
+  addMarkers(lng = -0.1180, lat = 51.4980, popup = "Florence Nightingale Museum") |>
+  addMarkers(lng = -0.1339, lat = 51.5246, popup = "UCL Archives") 
+```
+
+## University College London (UCL) Archives {.smaller}
+
+-   We viewed an assortment of archive items.
+
+-   Working papers for ‘Hereditary Genius’: statistical tables and calculations for the number of gifted relations across families, etc. 1860s by Galton.
+
+-   Results of over 8,000 coin toss experiments conducted by Leopold T Griffith. Griffith supplied the data to Karl Pearson, who used them for illustrative purposes in his Gresham Lectures. Enclosed with the exercise book is the 1891 one penny coin used by Griffith.
+
+## Working Papers
+
+![](imgs/working_hereditary_genius.jpg){width="70%"}
+
+## Florence Nightingale (&Museum) {.smaller}
+
+-   Founder of Modern Nursing: Florence Nightingale is widely considered the founder of modern nursing. Her emphasis on hygiene, patient care, and nursing education revolutionized healthcare practices and professionalized nursing.
+
+-   Role in the Crimean War: During the Crimean War (1853–1856), Nightingale drastically improved sanitary conditions at British field hospitals, reducing the death rate from 42% to 2%. Her work earned her the nickname "The Lady with the Lamp" for making nightly rounds to care for wounded soldiers.
+
+-   Pioneer in Data Visualization: Nightingale was also a statistician who used innovative data visualizations, like her famous "coxcomb" diagrams, to present mortality data and argue for healthcare reform. She was among the first to use statistics to influence public health policy.
+
+## Florence Nightingale's Coxcomb
+
+![](imgs/photos/flourence.png)
+
+## UCL and Eugenics: Subhadra Das
+
+-   Podcast [Bricks and Mortals](https://www.ucl.ac.uk/play/podcasts/bricks-mortals/bricks-mortals-introduction-science-eugenics).
+
+-   Subhadra gave us a live tour around UCL's campus.
+
+## Not so Fun Fact {.smaller}
+
+-   Galton, Pearson, and Fisher were all eugenicists.
+
+-   "Galton Lecture Theatre had been renamed Lecture Theatre 115, the Pearson Lecture Theatre changed to Lecture Theatre G22 and the Pearson Building to the North-West Wing"[^1]
+
+-   "Summer of 2020, GEE took the collective decision to rename the RA Fisher Centre for Computational Biology as the UCL Centre for Computational Biology"[^2]
+
+[^1]: UCL News
+
+[^2]: https://www.ucl.ac.uk/biosciences/gee/ucl-centre-computational-biology/ronald-aylmer-fisher-1890-1962
+
+## Happier facts {.smaller}
+
+-   Gertrude Cox was one of the first prominent female statisticians in the United States. In 1949, she became the first woman elected into the International Statistical Institute, a significant achievement that helped pave the way for other women in the field.
+
+-   Gertrude Cox earned her bachelor’s and master’s degrees from Iowa State College (now Iowa State University) in Ames, Iowa.
+
+-   She also worked closely with some of the early giants in stats, like Ronald Fisher and George Snedecor, while at Iowa State.
+
+-   She established the Department of Experimental Statistics at North Carolina State University in 1940, making it the first of its kind in the U.S.
+
+## City 2: Edinburgh, Scotland
+
+```{r}
+leaflet() |>
+  addProviderTiles(providers$CartoDB.Positron) |>
+  setView(lng = -3.1883, lat = 55.9533, zoom = 12) |>  # Zoomed into Edinburgh
+  addMarkers(lng = -3.1890, lat = 55.9440, popup = "University of Edinburgh Archives") 
+```
+
+## William Playfair (1759-1823) {.smaller}
+
+-   William Playfair is credited with inventing the bar chart (1786), the line graph (1786), the pie chart (1801), and the area chart.
+
+-   Playfair wasn’t formally trained in statistics—he was a Scottish engineer, economist, and political writer. He used visualizations to make economic and political arguments more persuasive, proving that powerful ideas don't always come from traditional paths.
+
+-   In his book The Commercial and Political Atlas (1786), Playfair used graphs to illustrate Britain’s trade with other countries. This was revolutionary then and made complex data far more accessible and intuitive.
+
+## University of Edinburgh Archives
+
+We primarily focussed on plots in books by Playfair or written by individuals inspired by Playfair.
+
+. . .
+
+![](imgs/PlayfairPlot.jpeg){width="85%"}
+
+## City 3: Dublin Ireland
+
+```{r}
+leaflet() |>
+  addProviderTiles(providers$CartoDB.Positron) |>
+  setView(lng = -6.2603, lat = 53.3498, zoom = 12) |>  # Zoomed into Dublin
+  addMarkers(lng = -6.2869, lat = 53.3413, popup = "Guinness Brewery") 
+```
+
+## William Sealy Gosset (1876-1937) {.smaller}
+
+-   Best known for developing the t-test, a statistical method for determining whether there is a significant difference between the means of two groups.
+
+-   Worked as a statistician at the Guinness Brewery in Dublin, Ireland.
+
+-   To protect his work's confidentiality, he published under the pseudonym "Student," leading to the common name Student's t-test.
+
+## Guinness Brewery
+
+As they say, when in Ireland, go to Guinness?
+
+-   Unfortunately, our tour guide at Guinness only gave a short spiel on Gosset. 
+
+-   But, for some reason, the students still very much enjoyed the visit...
+
+## The whole trip, at a glance {.smaller}
+
+-   We can see the itinerary at (bit.ly/STATS_UKnIR)[bit.ly/STATS_UKnIR].
+-   22 total days!
+-   Today, I've talked about statisticians, but the trip had an equally large cultural component
+-   We went to a Football/Soccer game, visited castles, and saw scenic landscapes
+-   The class read the book *The Lady Tasting Tea* by David Salsburg (highly suggested).
+
+## Pictures
+
+![](imgs/photos/b_s_pump.JPEG)
+
+## Pictures
+
+![](imgs/photos/gia_caus.JPEG)
+
+## Pictures
+
+![](imgs/photos/IMG_3923.JPEG)
+
+## Pictures
+
+![](imgs/photos/nat_arch.JPEG)
+
+## Pictures
+
+![](imgs/photos/titanic_2.JPEG)
+
+## Pictures
+
+![](imgs/photos/6d650c89-4de9-49f5-bbcd-10874ada7644.jpg)
+
+## Closing Thoughts
+
+-   We plan to implement the course again in the Fall of 2027.
+
+-   *We* is Dr. Ann Cannon and I. Ann will be the lead next. 
+
+-   Huge acknowledgment to Beth Johnson and David Holmes.
+
+-   Our course has now spawned at least two others!
+
+## Questions?
+
+- Website: [bit.ly/STATS_UKnIR](bit.ly/STATS_UKnIR).
