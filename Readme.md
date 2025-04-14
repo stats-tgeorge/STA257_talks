@@ -7,3 +7,6 @@ This repository contains talks and posters on the course *The History of Statist
 
 [Slides](https://stats-tgeorge.github.io/STA257_talks/IowaStatConf#) for a 30 minute presentation, at Grinnell College on April 11th, 2025. 
 
+## Talk at Gustavus Adolphus College
+
+[Slides](https://stats-tgeorge.github.io/STA257_talks/Gustavus#) for a 60 minute presentation, at Gustavus Adolphus College on April 14th, 2025. 
