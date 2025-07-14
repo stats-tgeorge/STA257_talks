@@ -10,3 +10,7 @@ This repository contains talks and posters on the course *The History of Statist
 ## Talk at Gustavus Adolphus College
 
 [Slides](https://stats-tgeorge.github.io/STA257_talks/Gustavus#) for a 60 minute presentation, at Gustavus Adolphus College on April 14th, 2025. 
+
+## Poster at USCOTS
+
+[Poster](https://stats-tgeorge.github.io/STA257_talks/Poster_USCOTS25) printed for USCOTS Conference on Friday, July 18th from 11:15 am – 12:30 pm CT.
