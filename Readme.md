@@ -13,4 +13,4 @@ This repository contains talks and posters on the course *The History of Statist
 
 ## Poster at USCOTS
 
-[Poster](https://stats-tgeorge.github.io/STA257_talks/Poster_USCOTS25) printed for USCOTS Conference on Friday, July 18th from 11:15 am – 12:30 pm CT.
+[Poster](https://stats-tgeorge.github.io/STA257_talks/docs/Poster_USCOTS25.pdf) printed for USCOTS Conference on Friday, July 18th from 11:15 am – 12:30 pm CT.
