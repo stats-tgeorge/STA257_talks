@@ -13,7 +13,8 @@ This repository contains talks and posters on the course *The History of Statist
 
 ## Poster at USCOTS 2025
 
-[Poster](https://stats-tgeorge.github.io/STA257_talks/docs/Poster_USCOTS25.pdf) printed for USCOTS Conference on Friday, July 18th from 11:15 am – 12:30 pm CT.
+[Poster](https://stats-tgeorge.github.io/STA257_talks/docs/Poster_USCOTS25.pdf) printed for USCOTS Conference on Friday, July 18th from 11:15 am – 12:30 pm CT. You may need to download the PDF. 
 
 ## Talk at JSM 2025
 
+[Scrollytelling Talk](https://stats-tgeorge.github.io/STA257_talks/JSM_Scrollytelling_Talk) presented at JSM on Thursday, August 7th from 10:30 am – 12:20 pm CT.
