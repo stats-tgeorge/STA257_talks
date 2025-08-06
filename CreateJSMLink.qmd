@@ -1,0 +1,9 @@
+---
+title: "Teaching Abroad: The History of Statistics in the UK and Ireland"
+format: pdf
+author: "Tyler George"
+editor: visual
+---
+
+Talk: <https://stats-tgeorge.github.io/STA257_talks/JSM_Scrollytelling_Talk>
+

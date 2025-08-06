@@ -29,37 +29,44 @@ format:
 
 
 
-:::::::: cr-section
-::: {#cr-map1}
+:::{.cr-section}
+
+:::{#cr-map1}
 ![](imgs/london1.png)
 :::
 
-::: {#cr-map2}
+:::{#cr-map2}
 ![](imgs/london2.png)
 :::
 
-::: {#cr-map3}
+:::{#cr-map3}
 ![](imgs/edinburgh.png)
 :::
 
-::: {#cr-map4}
+:::{#cr-map4}
 ![](imgs/dublin1.png)
 :::
 
-::: {#cr-map5}
+:::{#cr-map5}
 ![](imgs/ireland.png)
 :::
 
 This talk is about an abroad course I taught on the history of statistics. We started in Mount Vernon, Iowa, and our first destination was London!
 
+# City 1: London, UK
+
+@cr-map1
 
 We started with a bus tour of London that my sleep-deprived students described as a "near psychedelic experience."
+
+![](imgs/BB.jpg)
+
 
 This is an abridged version of the course....
 
 ## UCL and Eugenics: Subhadra Das
 
-@cr-map1
+[@cr-map1]{pan-to="25%,100%" scale-by="3"}
 
 Subhadra Das was a "Curator of the Science Collections at University College London where she was also Researcher in Critical Eugenics at the Sarah Parker Remond Centre for the Study of Racism and Racialisation" (https://www.subhadradas.com/)
 
@@ -71,7 +78,7 @@ As you may know, Francis Galton, Karl Pearson, and Sir Ronald A. Fisher were all
 
 "Summer of 2020, GEE took the collective decision to rename the RA Fisher Centre for Computational Biology as the UCL Centre for Computational Biology"(https://www.ucl.ac.uk/biosciences/gee/ucl-centre-computational-biology/ronald-aylmer-fisher-1890-1962)
 
-![](imgs/UCL Building Comp Biology.jpg)
+![](imgs/UCL Building Comp Biology.jpg){width=100% height=100%}
 
 ## University College London (UCL) Archives
 
@@ -85,7 +92,7 @@ One example, the Working papers for ‘Hereditary Genius’: statistical tables 
 
 ## Florence Nightingale Museum
 
-@cr-map1
+[@cr-map1]{pan-to="25%,-100%" scale-by="3"}
 
 Widely considered the founder of modern nursing. Her emphasis on hygiene, patient care, and nursing education revolutionized healthcare practices and professionalized nursing.
 
@@ -93,9 +100,7 @@ During the Crimean War (1853–1856), she drastically improved sanitary conditio
 
 Nightingale was also a statistician who used innovative data visualizations, like her famous "coxcomb" diagrams, to present mortality data and argue for healthcare reform. She was among the first to use statistics to influence public health policy.
 
-### Florence Nightingale's Coxcomb
-
-![](imgs/photos/flourence.jpeg)
+![Florence Nightingale's Coxcomb](imgs/photos/flourence.jpeg)
 
 ## Speaker: Dr. Mary Gregory, UK Population Statistics Directorate
 
@@ -103,11 +108,13 @@ Nightingale was also a statistician who used innovative data visualizations, lik
 
 Dr. Gregory highlighted differences in government between the US and UK. She aslo provided the students with a great opportunity to ask about the current use of statistics in the UK.
 
-![](imgs/marygregory.jpg)
+![Dr. Mary Gregory](imgs/marygregory.jpg){width=50% height=50%}
 
 ## Bletchley Park in Bletchley
 
 @cr-map2
+
+[@cr-map2]{pan-to="100%,50%" scale-by="3"}
 
 Among many achievements, while working at Bletchley Park, Alan Turing and Max Newman used Bayesian inference and probability theory to break German codes—particularly the Enigma and Lorenz ciphers.
 
@@ -117,7 +124,7 @@ Students learned about ciphers and interacted with an Enigma machine—the exact
 
 ## Cambridge
 
-@cr-map2
+[@cr-map2]{pan-to="-80%,80%" scale-by="3"}
 
 We went on a two-hour walking tour (in the rain).
 
@@ -127,7 +134,7 @@ Some of the figures who studied at Cambridge (various colleges): CR Rao (Cramer 
 
 ## Rothamsted Research in Harpenden
 
-@cr-map2
+[@cr-map2]{pan-to="25%,-25%" scale-by="3"}
 
 Rothamsted hosts some of the longest-running agricultural experiments in the world, like the Broadbalk Wheat Experiment, which began in 1843.
 
@@ -135,13 +142,19 @@ Sir Ronald A. Fisher developed key statistical techniques while working at Rotha
 
 Rothamsted maintains a rich open-access repository of over 150 years of data (https://www.era.rothamsted.ac.uk/), including crop yields, soil chemistry, and meteorological data. These datasets are a goldmine for statistical analysis, time-series modeling, and environmental forecasting.
 
-![](imgs/photos/roth_field.JPEG)
+![Rothamsted Research](imgs/photos/roth_field.JPEG)
 
-![](imgs/photos/roth_students.JPG)
+![Cornell Students at Rothamsted Research](imgs/photos/roth_students.JPG)
+
+# City 2: Edinburgh, UK
+
+@cr-map3
 
 ## University of Edinburgh Archives
 
 @cr-map3
+
+[@cr-map3]{pan-to="-75%,30%" scale-by="3"}
 
 We attended a *Learning Session* organized by the University of Edinburgh Archives. We primarily focused on plots in books by William Playfair or by individuals directly inspired by Playfair.
 
@@ -153,9 +166,9 @@ Playfair wasn’t formally trained in statistics—he was a Scottish engineer, e
 
 In his book The Commercial and Political Atlas (1786), Playfair used graphs to illustrate Britain’s trade with other countries. This was revolutionary at the time and made complex data far more accessible and intuitive.
 
-![](imgs/PlayfairPlot.jpeg)
+![Playfair's "A Letter on Our Agricultural Distresses](imgs/PlayfairPlot.jpeg)
 
-![](imgs/photos/6d650c89-4de9-49f5-bbcd-10874ada7644.jpg)
+![Students at Edinburgh's Archive](imgs/photos/6d650c89-4de9-49f5-bbcd-10874ada7644.jpg)
 
 ## Speaker Zhaoxi Zhang, Royal Statistical Society (RSS)
 
@@ -165,19 +178,23 @@ Zhang delivered a talk,”Story of Scottish Statistics.” He later wrote a pape
 
 ## Napier University
 
-@cr-map3
+[@cr-map3]{pan-to="100%,-100%" scale-by="3"}
 
-Location of Merchiston's Tower that was owned by John Napier (1550-1617), the creator of the logarithm.
+Location of Merchiston's Tower that was owned by John Napier (1550-1617), the creator of the logarithm. 
 
 Now, Napier University is built around it. Two of our students presented a collaborative research project on text analysis with Scottish Gaelic, and we walked the tower.
 
-Why not climb a dead volcano (Arthur's Seat)?
 
-## City 3: Dublin, Ireland
+![Napier University](imgs/Merchiston_Castle.png)
+
+# City 3: Dublin, Ireland
+
+@cr-map4
+
 
 ## Guinness Storehouse
 
-@cr-map4
+[@cr-map4]{pan-to="90%,75%" scale-by="3"}
 
 ### William Sealy Gosset (1876-1937)
 
@@ -191,30 +208,29 @@ Unfortunately, our tour guide at Guinness only gave a short spiel on Gosset.
 
 But, for some reason, the students still very much enjoyed the visit...
 
-![](imgs/photos/guinness_students.JPEG)
+![Cornell Students at Guinness Storehouse](imgs/photos/guinness_students.JPEG)
 
 ## Speaker: Dr. Shane Whelan
 
 @cr-map4
 
 Worked at the Central Statistics Office (CSO) of Ireland and University College Dublin (now enjoying watching a lot more fencing).
-
 A longstanding member and secretary of The Statistical and Social Inquiry Society of Ireland (SSISI).
-
 Founded in 1847, it promotes the study of statistics, economics, and social science in Ireland through public lectures, research, and policy discussions.
 
 ## Ireland Countryside
 
 @cr-map5
 
-![](imgs/photos/gia_caus.JPEG)
-::::::::
+![Giants Causeway](imgs/photos/gia_caus.JPEG)
 
-This is a course, though. What about teaching it?
+:::
 
-::: cr-section
-# Brief Learning Objectives
+# This is a course, though. What about teaching it?
 
+:::{.cr-section}
+
+## Brief Learning Objectives
 -   Navigate unfamiliar cultures and environments with awareness.
 
 -   Embrace ambiguity in new or challenging situations.
@@ -229,8 +245,7 @@ This is a course, though. What about teaching it?
 
 -   Connect today’s world with its historical foundations.
 
-# Pedagogy
-
+## Pedagogy
 **Design Principles** The course emphasized modular, place-based learning with critical reflection at its core. Assignments were structured to deepen understanding of both the history of statistics and the cultural context.
 
 **Assignments**
@@ -247,11 +262,9 @@ This is a course, though. What about teaching it?
 
 Reflections were evaluated on a four-point scale (1 = Below Basic to 4 = Advanced) across four dimensions: Understanding, Quality, Quantity, and Mechanics.
 
-**Engaging with Bias and History** Students were encouraged to wrestle with the ethical legacies of key figures and the role of statistics in promoting — or challenging — social injustice.
-
 **Course Design Challenges** The course had to be designed for flexibility — allowing asynchronous work, learning in any order, and completing reflections in unpredictable settings like buses or cafés.
 
-# Student Feedback
+## Student Feedback
 
 Students desired clearer feedback on reflections.
 
@@ -267,52 +280,25 @@ Neccessary? No. Fun and engaging? Yes!
 
 You can see the itinerary at **bit.ly/STATS_UKnIR** (QR code at the end).
 
+16 students! 
+
 22 total days!
 
-Equally significant cultural component.
-:::
 
-::: cr-section
+## Looking Forward
 
-
-![](imgs/class.jpg)
-
-# Looking Forward
-
-Re-run course in Fall 2027 (lead: Dr. Cannon).
-
-Revise materials to strengthen history/culture integration and to connect reflections to cultural/statistical learning better.
-
-Improve the integration of parts of historical papers by Pearson and others
-
-Consistent classroom meeting space.
-:::
+- Re-run course in Fall 2027 (lead: Dr. Cannon).
+- Revise materials to strengthen history/culture integration and to connect reflections to cultural/statistical learning better.
+- Improve the integration of parts of historical papers by Pearson and others
+- Consistent classroom meeting space.
 
 ## Closing Thoughts
 
 -   Huge acknowledgment to Beth Johnson and David Holmes.
-
 -   Our course has now spawned at least two others!
-
 -   A manuscript is in the planning stages.
-
 -   Presentation created with Quarto Extension Closeread by Andrew Bray
-
--   *Tgeorge\@cornellcollege.edu*.
-
-::::: columns
-::: column
-## Website QR Code (bit.ly_STATS_UKnIR)
-
-![](imgs/bit.ly_STATS_UKnIR.png)
-:::
-
-::: column
-## Shiny Map (bit.ly/StatsUKIMap)
-
-![](imgs/bit.ly_StatsUKIMap.png)
-:::
-:::::
+-   Contact *Tgeorge\@cornellcollege.edu*.
 
 
 ![](imgs/photos/b_s_pump.JPEG)
@@ -324,3 +310,24 @@ Consistent classroom meeting space.
 ![](imgs/photos/nat_arch.JPEG)
 
 ![](imgs/photos/titanic_2.JPEG)
+
+![](imgs/class.jpg)
+
+:::
+
+::::{.columns}
+:::{.column}
+## Website QR Code (bit.ly_STATS_UKnIR)
+
+![](imgs/bit.ly_STATS_UKnIR.png)
+:::
+
+:::{.column}
+
+## Shiny Map (bit.ly/StatsUKIMap)
+
+![](imgs/bit.ly_StatsUKIMap.png)
+:::
+::::
+
+
