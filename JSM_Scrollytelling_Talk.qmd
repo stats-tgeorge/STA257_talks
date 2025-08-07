@@ -19,7 +19,7 @@ format:
         narrative-text-color-sidebar: white
         narrative-font-family: times-new-roman
         narrative-text-color: white
-        narrative-font-size: 2rem
+        narrative-font-size: 3rem
         narrative-sidebar-width: 1
         
         #section-background-color: "#523178"
