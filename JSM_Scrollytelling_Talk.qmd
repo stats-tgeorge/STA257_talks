@@ -53,13 +53,13 @@ format:
 
 This talk is about an abroad course I taught on the history of statistics. We started in Mount Vernon, Iowa, and our first destination was London!
 
-# City 1: London, UK
+## City 1: London, UK
 
 @cr-map1
 
 We started with a bus tour of London that my sleep-deprived students described as a "near psychedelic experience."
 
-![](imgs/BB.jpg)
+![](imgs/BB.jpg){width=100%}
 
 
 This is an abridged version of the course....
@@ -73,8 +73,6 @@ Subhadra Das was a "Curator of the Science Collections at University College Lon
 She gave us a walking tour around the UCL campus. Check out her podcast, Bricks and Mortals.
 
 As you may know, Francis Galton, Karl Pearson, and Sir Ronald A. Fisher were all eugenicists. This fact sparked many conversations around the globe about names of awards, buildings, and more.
-
-"Galton Lecture Theatre had been renamed Lecture Theatre 115, the Pearson Lecture Theatre changed to Lecture Theatre G22 and the Pearson Building to the North-West Wing", UCL News
 
 "Summer of 2020, GEE took the collective decision to rename the RA Fisher Centre for Computational Biology as the UCL Centre for Computational Biology"(https://www.ucl.ac.uk/biosciences/gee/ucl-centre-computational-biology/ronald-aylmer-fisher-1890-1962)
 
@@ -106,7 +104,7 @@ Nightingale was also a statistician who used innovative data visualizations, lik
 
 @cr-map1
 
-Dr. Gregory highlighted differences in government between the US and UK. She aslo provided the students with a great opportunity to ask about the current use of statistics in the UK.
+Dr. Gregory highlighted differences in government between the US and UK. She also provided the students with a great opportunity to ask about the current use of statistics in the UK.
 
 ![Dr. Mary Gregory](imgs/marygregory.jpg){width=50% height=50%}
 
@@ -116,9 +114,9 @@ Dr. Gregory highlighted differences in government between the US and UK. She asl
 
 [@cr-map2]{pan-to="100%,50%" scale-by="3"}
 
-Among many achievements, while working at Bletchley Park, Alan Turing and Max Newman used Bayesian inference and probability theory to break German codes—particularly the Enigma and Lorenz ciphers.
+Alan Turing and Max Newman used Bayesian inference and probability theory to break German codes—particularly the Enigma and Lorenz ciphers.
 
-The Colossus computer, developed to break the Lorenz cipher, helped automate the analysis of intercepted messages by identifying statistical patterns in ciphertext. We saw the Colossus in action at the *National Museum of Computing*.
+The Colossus computer, developed to break the Lorenz cipher, helped automate the analysis of intercepted messages by identifying patterns in ciphertext. We saw the Colossus in action at the *National Museum of Computing*.
 
 Students learned about ciphers and interacted with an Enigma machine—the exact machine used in *The Imitation Game* movie.
 
@@ -146,7 +144,7 @@ Rothamsted maintains a rich open-access repository of over 150 years of data (ht
 
 ![Cornell Students at Rothamsted Research](imgs/photos/roth_students.JPG)
 
-# City 2: Edinburgh, UK
+## City 2: Edinburgh, UK
 
 @cr-map3
 
@@ -166,7 +164,7 @@ Playfair wasn’t formally trained in statistics—he was a Scottish engineer, e
 
 In his book The Commercial and Political Atlas (1786), Playfair used graphs to illustrate Britain’s trade with other countries. This was revolutionary at the time and made complex data far more accessible and intuitive.
 
-![Playfair's "A Letter on Our Agricultural Distresses](imgs/PlayfairPlot.jpeg)
+![Playfair's "A Letter on Our Agricultural Distresses"](imgs/PlayfairPlot.jpeg)
 
 ![Students at Edinburgh's Archive](imgs/photos/6d650c89-4de9-49f5-bbcd-10874ada7644.jpg)
 
@@ -174,7 +172,7 @@ In his book The Commercial and Political Atlas (1786), Playfair used graphs to i
 
 RSS was founded in 1834 and is now over 190 years old, and one of the world's oldest and most influential statistical organizations. Through its publications, professional standards, and advocacy, it plays a pivotal role in shaping statistics as a formal discipline.
 
-Zhang delivered a talk,”Story of Scottish Statistics.” He later wrote a paper on the topic and has won the RSS Statistical Excellence Award for Early-Career Writing for this year!
+Zhang delivered a talk,``Story of Scottish Statistics.” He later wrote a paper on the topic and has won the RSS Statistical Excellence Award for Early-Career Writing for this year!
 
 ## Napier University
 
@@ -187,7 +185,7 @@ Now, Napier University is built around it. Two of our students presented a colla
 
 ![Napier University](imgs/Merchiston_Castle.png)
 
-# City 3: Dublin, Ireland
+## City 3: Dublin, Ireland
 
 @cr-map4
 
@@ -196,17 +194,11 @@ Now, Napier University is built around it. Two of our students presented a colla
 
 [@cr-map4]{pan-to="90%,75%" scale-by="3"}
 
-### William Sealy Gosset (1876-1937)
+**William Sealy Gosset (1876-1937)** is best known for developing the t-test, a statistical method for determining whether there is a significant difference between the means of two groups.
 
-Best known for developing the t-test, a statistical method for determining whether there is a significant difference between the means of two groups.
+Worked as a statistician/brewmaster at the Guinness Brewery in Dublin, Ireland. To protect his work's confidentiality, he published under the pseudonym "Student," leading to the common name Student's t-test.
 
-Worked as a statistician at the Guinness Brewery in Dublin, Ireland.
-
-To protect his work's confidentiality, he published under the pseudonym "Student," leading to the common name Student's t-test.
-
-Unfortunately, our tour guide at Guinness only gave a short spiel on Gosset.
-
-But, for some reason, the students still very much enjoyed the visit...
+Unfortunately, our tour guide at Guinness only gave a short spiel on Gosset....the students still very much enjoyed the visit...
 
 ![Cornell Students at Guinness Storehouse](imgs/photos/guinness_students.JPEG)
 
@@ -232,78 +224,51 @@ Founded in 1847, it promotes the study of statistics, economics, and social scie
 
 ## Brief Learning Objectives
 -   Navigate unfamiliar cultures and environments with awareness.
-
 -   Embrace ambiguity in new or challenging situations.
-
 -   Engage meaningfully with people and places abroad.
-
 -   Reflect critically on your own and others’ cultures.
-
 -   Explore the origins of statistics and its ties to eugenics.
-
 -   Discover the technologies that shaped modern statistics.
-
 -   Connect today’s world with its historical foundations.
 
 ## Pedagogy
-**Design Principles** The course emphasized modular, place-based learning with critical reflection at its core. Assignments were structured to deepen understanding of both the history of statistics and the cultural context.
+**Design Principles** The course emphasized modular, place-based learning with critical reflection at its core.
 
 **Assignments**
 
 -   Readings: The Lady Tasting Tea by David Salsburg, and excerpts from F. Galton and K. Pearson.
-
 -   Reflections: Structured synthesis of site visits and readings, life experiences, or prior classes.
-
 -   Activities: Field-based assignments, such as exploring the Titanic dataset before and during visiting the museum.
-
 -   Final Reflection: Summative integration of learning.
 
-**Experience Reflection Example:** *Reflect in at least 400 words on the experience. This should include a description of the experience and a synthesis of at least two of 1) assigned course readings, 2) your own life experiences and/or other people's stories you have heard, 3) other course content and conversations, and 4) prior statistical knowledge.*
-
-Reflections were evaluated on a four-point scale (1 = Below Basic to 4 = Advanced) across four dimensions: Understanding, Quality, Quantity, and Mechanics.
-
-**Course Design Challenges** The course had to be designed for flexibility — allowing asynchronous work, learning in any order, and completing reflections in unpredictable settings like buses or cafés.
 
 ## Student Feedback
-
-Students desired clearer feedback on reflections.
-
-Many expressed interest in having more free time and engaging in cultural exploration.
-
-Some viewed the reflections as less meaningful — suggesting a need to better integrate them with on-site experiences.
-
-The course was an amazing experience for them (but sadly, I fear the learning lacked)
+- Students desired clearer feedback on reflections.
+- Many expressed interest in having more free time and engaging in cultural exploration.
+- Some viewed the reflections as less meaningful — suggesting a need to better integrate them with on-site experiences.
+- The course was an amazing experience for them (but sadly, I fear the learning lacked)
 
 ## The whole course, at a glance
-
-Neccessary? No. Fun and engaging? Yes!
-
-You can see the itinerary at **bit.ly/STATS_UKnIR** (QR code at the end).
-
-16 students! 
-
-22 total days!
+- Neccessary? No. Fun and engaging? Yes!
+- You can see the itinerary at **bit.ly/STATS_UKnIR** (QR code at the end).
+- 16 students! 
+- 22 total days!
 
 
 ## Looking Forward
-
 - Re-run course in Fall 2027 (lead: Dr. Cannon).
 - Revise materials to strengthen history/culture integration and to connect reflections to cultural/statistical learning better.
-- Improve the integration of parts of historical papers by Pearson and others
 - Consistent classroom meeting space.
 
 ## Closing Thoughts
-
--   Huge acknowledgment to Beth Johnson and David Holmes.
+-   Huge acknowledgment to Beth Johnson and David Holmes and Section of Statistics and Data Science Education
 -   Our course has now spawned at least two others!
 -   A manuscript is in the planning stages.
--   Presentation created with Quarto Extension Closeread by Andrew Bray
+-   Presentation created with Quarto extension Closeread by Andrew Bray
 -   Contact *Tgeorge\@cornellcollege.edu*.
 
 
 ![](imgs/photos/b_s_pump.JPEG)
-
-![](imgs/photos/gia_caus.JPEG)
 
 ![](imgs/photos/IMG_3923.JPEG)
 
