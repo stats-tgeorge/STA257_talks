@@ -53,7 +53,7 @@ format:
 
 This talk is about an abroad course I taught on the history of statistics. We started in Mount Vernon, Iowa, and our first destination was London!
 
-## City 1: London, UK
+## Visit London
 
 @cr-map1
 
@@ -120,9 +120,11 @@ The Colossus computer, developed to break the Lorenz cipher, helped automate the
 
 Students learned about ciphers and interacted with an Enigma machine—the exact machine used in *The Imitation Game* movie.
 
-## Cambridge
+
 
 [@cr-map2]{pan-to="-80%,80%" scale-by="3"}
+
+## Visit to Cambridge
 
 We went on a two-hour walking tour (in the rain).
 
@@ -144,9 +146,13 @@ Rothamsted maintains a rich open-access repository of over 150 years of data (ht
 
 ![Cornell Students at Rothamsted Research](imgs/photos/roth_students.JPG)
 
-## City 2: Edinburgh, UK
+
 
 @cr-map3
+ 
+ 
+## Visit Edinburgh
+
 
 ## University of Edinburgh Archives
 
@@ -185,7 +191,7 @@ Now, Napier University is built around it. Two of our students presented a colla
 
 ![Napier University](imgs/Merchiston_Castle.png)
 
-## City 3: Dublin, Ireland
+## Visit Dublin
 
 @cr-map4
 
